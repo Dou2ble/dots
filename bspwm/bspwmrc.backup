@@ -1,0 +1,41 @@
+#! /bin/sh
+
+
+killall sxhkd &
+sxhkd &
+killall dunst &
+dunst &
+lxsession &
+nitrogen --restore &
+setxkbmap -layout se -variant nodeadkeys &
+picom --backend glx &
+flameshot &
+~/.config/bspwm/polybar.sh
+
+# aesthetics
+bspc config border_width		  2
+bspc config window_gap                    10
+
+# dracula theme
+bspc config normal_border_color "#44475a"
+bspc config active_border_color "#bd93f9"
+bspc config focused_border_color "#ff79c6"
+bspc config presel_feedback_color "#6272a4"
+
+# virtual dekstops
+bspc monitor DP-2 -d 1 2 3 4
+bspc monitor HDMI-0 -d 5 6 7 8
+
+# behaviour
+bspc config click_to_focus                true
+bspc config split_ratio                   0.5
+bspc config focus_follows_pointer         true
+bspc config history_aware_focus           true
+bspc config remove_disabled_monitors      true
+bspc config merge_overlapping_monitors    true
+bspc config pointer_modifier mod4
+bspc config pointer_action1 move
+bspc config pointer_action2 resize_side
+bspc config pointer_action3 resize_corner
+
+python3 ~/.config/bspwm/config.py

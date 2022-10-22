@@ -1,0 +1,45 @@
+# app launchers
+alt + space
+    rofi -show drun
+
+alt + t
+    terminator
+
+alt + b
+    firefox
+
+alt + e
+    pcmanfm
+
+alt + F4
+    xkill
+
+super + ctrl + r
+    bspc wm -r
+
+super + c
+    bspc node -c
+
+# Toggle fullscreen
+super + f
+    if [ -z "$(bspc query -N -n focused.fullscreen)" ]; then \
+    	bspc node -t fullscreen; \
+    else \
+    	bspc node focused -t tiled; \
+    fi
+
+# Toggle floating
+super + ctrl + space
+    if [ -z "$(bspc query -N -n focused.floating)" ]; then \
+        bspc node focused -t floating; \
+    else \
+        bspc node focused -t tiled; \
+    fi
+
+# switch trough desktops
+super + {q, w, e, r, 1, 2, 3, 4}
+    bspc desktop -f '^{1, 2, 3, 4, 5, 6, 7, 8}'
+
+# Send window to desktop to desktop
+super + shift + {q, w, e, r, 1, 2, 3, 4}
+    id=$(bspc query -N -n); bspc node -d '^{1, 2, 3, 4, 5, 6, 7, 8}'; bspc node -f ${id}}

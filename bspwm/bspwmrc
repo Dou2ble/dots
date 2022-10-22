@@ -1,0 +1,16 @@
+#! /bin/sh
+
+
+nvidia-settings --load-config-only &
+killall sxhkd &
+sxhkd &
+killall dunst &
+dunst &
+lxsession &
+nitrogen --restore &
+setxkbmap -layout se -variant nodeadkeys &
+picom --backend glx &
+flameshot &
+~/.config/bspwm/polybar.sh
+
+python3 ~/.config/bspwm/config.py

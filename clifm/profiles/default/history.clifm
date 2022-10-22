@@ -1,0 +1,707 @@
+edit
+paru kitty
+htop
+reboot
+code .config/polybar/config.ini
+code .config/awesome/rc.lua
+htop
+rofi
+rofi -show windo
+rofi -show window'
+rofi -show window
+code .config/polybar/config.ini
+polybar -h
+polybar -r
+polybar -s
+polybar -h
+cat .config/picom/picom.conf
+cat .config/picom/picom.conf | less
+killall polybar
+paru colorpicker
+colorpicker
+paru colorpicker
+paru -Rcns kcolorpicker
+paru colorpicker
+killall polybar
+colorpicker
+killall polybar
+code .config/awesome/rc.lua
+python3
+killall polybar
+polybar
+btop
+shell
+sh
+paru awesome
+paru mute
+pactl set-sink-volume @DEFUALT_SINK@ +5%
+pactl set +5%
+pactl -h
+htop
+paru polymc
+killall picom
+paru openjdk
+paru
+paru steam
+paru lib32-fontconfig
+killall steam
+neofetch
+/
+mkdir SteamLibrary
+chown otto 1
+doas chown otto 1
+ls -l
+/
+mkdir SteamLibrary
+/
+media/
+paru better discord
+paru peazip
+killall peazip
+killall pcmanfm
+killall csgo
+killall steam
+killall picom
+flameshot -h
+flameshot -h launcher
+flameshot -launcher
+flameshot --launcher
+neofethc
+neofetch
+aru
+paru
+picom
+neofetch
+nvim /etc/bash.bashrc
+doas nvim /etc/bash.bashrc
+bash
+sh
+bash
+source ~/pureline/pureline ~/.pureline.conf
+cd ..
+paru bspwm
+paru sxhkdrc
+nitrogen -h
+.config/
+mkdir bspwm
+mkdir sxhkd
+nvim bspwmrc
+chmod +x 1
+cd ..
+sxh
+sxhkd/
+nvim sxhkdrc
+chmod +x 1
+cd ..
+s
+sxhkd/
+code 1
+bspwm/
+code 1
+rofi --show run
+rofi --show drun
+rofi -show drun
+.config/
+bspwm/
+ls -l
+chmod +xxx 1
+ls -l
+reboot
+.config/
+sxhkd/
+code 1
+killall picom
+code 1
+reboot
+.config/
+code 1
+sxhkd/
+code sxhkd/
+cd ..
+qtile/
+setxkbmap -layout se -variant nodeadkeys
+sxhkd/
+code 1
+[200~pkill -USR1 -x sxhkd~
+pkill -USR1 -x sxhkd
+pkill -USR1 -x sxhkd
+bspc node -c
+killall sxhkdrc
+killall sxhkd
+sxhkd/
+sxhkd/
+sxhkd/
+[200~~/.config/bspwm/bspwmrc~
+~/.config/bspwm/bspwmrc
+sxhkd/
+sxhkd
+cd .config/bspwm/
+paru bat
+bat 1
+bspc config window_gap 20
+bspc config window_gap 10
+code .
+cd .config/bspwm/
+./1
+./bspwmrc
+cd .config/bspwm/
+./bspwmrc
+cd .config/bspwm/
+polybar
+nvim polybar.sh
+chmod +xxx 3
+ls -l
+./bspwmrc
+killall polybar
+.config/bspwm/
+./bspwmrc
+polybar -r
+kill
+pkill
+killall
+xkill
+.config/alacritty/
+code 1
+code 3
+cd ..
+bspwm
+rm 2
+code 1
+cd .config/bspwm/
+./bspwmrc
+bspc wm -r
+sxhkd
+code 1
+bspc wm -r
+killall sxhkd
+sxhkd
+reboot
+cd .config/bspwm/
+code 1
+man bspc
+cd .config/bspwm/
+code 1
+xrandr
+cd .config/polybar/
+code 1
+paru crystal
+crystal --focus 2
+paru crystal
+cd .config/
+pwd
+cd ..
+sxhkd
+code 1
+bspc dekstop -f 2
+bspc desktop -f 2
+bspc desktop -f 1
+bspc desktop -f "1"
+bash
+git clone https://git.suckless.org/dwm
+code 3
+doas rm -r 3
+volumeicon
+cd .config/
+polybar
+code 1
+volumeicon
+.config/bspwm/polybar.sh
+.config/bspwm/
+./polybar.sh
+polybar
+polybar first
+.config/bspwm/
+code 2
+polybar secons
+polybar secon
+polybar second
+neofethc
+neofetch
+cd ..
+picom/
+paru picom
+picom
+mv 1 picom.conf.laggy
+paru picom
+code .
+picom
+paru picom
+ls
+mv 1 picom.conf.laggy2
+picom
+paru compix
+paru compiz
+pacman -Qrdq
+pacman -Qtdq
+paru jdk
+pacman -Qtdq
+picom
+nvidia-settings -a 'AllowFlipping=0'
+picom
+nvidia-settings -a 'AllowFlipping=0'
+picom
+.config/
+picom
+nvim picom.conf
+picom
+mv picom.conf picom.conf.working
+mv picom.conf picom.conf.laggy picom.conf
+mv picom.conf.laggy picom.conf
+ls
+mv picom.conf.laggypicom.conf
+mv picom.conf.laggy picom.conf
+mv 1 picom.conf
+mv 1 picom.conasdasdasdaws
+mv 1 picom.conf
+picom
+reboot
+picom
+icom
+picom
+killall polybar
+picom
+nvim .config/picom/picom.conf
+picom -h
+picom --backend glx
+picom --backend xrender
+picom --backend xr_glx_hybrid
+picom --experimental-backends
+cd .config/picom/
+mv 1 picom.conf.laggy
+paru picom
+picom
+paru bspwm
+reboot
+paru bspwm
+bspc config border_radius 10
+picom
+.config/
+picom/
+nvim picom.conf
+picom
+ls
+picom.conf.laggy2
+nvim picom.conf
+picom
+nvim 1
+picom
+cd ..
+picom
+bspwm
+bash
+neofethc
+rm 4
+.config/
+doas nvim /etc/bash.bashrc
+doas rm -r 3
+bash
+cd ..
+rm -r 1
+cd ..
+rm -r 1
+mkdir wallpapers
+sl
+mv 1 "Cyberpunk Sunset.png"
+bash
+echo $PS1
+bash
+bash
+doas nvim /etc/bash.bashrc
+bash
+doas nvim /etc/bash.bashrc
+neofetch
+nvim .config/bspwm/bspwmrc
+nvim .config/sxhkd/sxhkdrc
+bspc window -t fullscreen
+bspc window -t floating
+nvim .config/sxhkd/sxhkdrc
+reboot
+nvim .config/sxhkd/sxhkdrc
+nvim .config/bspwm/bspwmrc
+nvim .config/polybar/config.ini
+neofetch
+btop
+paru better discord
+betterdiscord-installer
+killall picom
+betterdiscord-installer
+paru xnview
+paru xview
+paru nsxiv
+2¨
+nsxiv 1
+nsxiv 2
+nvim .config/picom/picom.conf
+killall picom
+picom
+btop
+htop
+btop
+htop
+nvim .config/picom/picom.conf
+rm -r .local/state/nvim/swap/
+killall picom
+picom
+picom --experimental-backends
+picom -h
+picom --experimental-backends --backend xr_glx_hybrid
+picom --experimental-backends --backend glx
+picom
+cd .config/picom/
+picom
+paru dunst
+dunst
+dunstify 1212
+dunstify 1212237238570345203845
+dunst
+.config/bspwm/
+killall dunst
+dunstify 1212
+dunst
+paru lxsession
+lxsession
+paru
+nvim .config/bspwm/bspwmrc
+cat .config/bspwm/bspwmrc
+nvim .config/bspwm/bspwmrc
+cat .config/bspwm/bspwmrc
+cat .config/sxhkd/sxhkdrc
+cat .config/picom/picom.conf
+cat .config/alacritty/alacritty.yml
+cat .config/rofi/
+cat .config/rofi/config.rasi
+cat .config/polybar/config.ini
+cat .config/polybar/config.ini
+cat .config/bspwm/polybar.sh
+cat .config/bspwm/polybar.sh
+paru mullvad
+paru bspswallow
+paru bspwm swallow
+.config/bspwm/
+xprop
+ls -l
+chmod +xxx 1
+ls -l
+paru mpv
+mpv
+mpv 3
+mpv 2
+bash
+rm -r 2
+.config/bspwm/
+rm 1
+paru -R openjdk-17
+paru open
+paru openjdk
+paru -Rcns jre17-openjdk
+paru -S jre openjdks
+paru -S jre openjdk
+paru jre openjdk
+paru qbittorrent
+paru gparted
+lxsession
+paru gparted
+gparted
+.con
+.config/bspwm/
+paru ntfs
+lsblk
+mount --mkdir /dev/sda2 /media/windows/K
+doas mount --mkdir /dev/sda2 /media/windows/K
+cd ..
+cd /
+ls -l
+chmod +rwrw /media
+doas chmod +rwrw /media
+ls-l
+ls -l
+cd media/
+ls -l
+mv 4 3
+paru wget
+wget https://github.com/dracula/qbittorrent/raw/master/qbittorrent.qbtheme
+cd ~/Downloads/
+peazip 4
+timedatectl
+nvim .config/polybar/config.ini
+.config/polybar/
+code 1
+nvim .config/bspwm/bspwmrc
+nvim .config/picom/picom.conf
+killall picom
+nvim .config/bspwm/bspwmrc
+paru picom
+nvim .config/bspwm/bspwmrc
+nvim .config/picom/picom.conf
+killall picom
+nvim .config/picom/picom.conf
+killall picom
+picom
+nvim .config/bspwm/bspwmrc
+killall picom
+paru bspwm
+paru kitty
+paru st
+paru simple terminal
+paru lxterminal
+paru -Rcns lxterminal
+paru st luke
+st
+bash
+neofetch
+paru pape
+paru paper
+paru paper icons
+paru paper icon
+bat 5
+./install.sh
+neofetch
+neofethc
+neofetch
+neofethc
+neofetch
+neofethc
+neofetch
+bash
+cd stuff/st/
+git push
+.config/bspwm/
+bat 3
+paru
+code
+lxappearance
+nvim .config/picom/picom.conf
+bat /etc/timezone
+nvim /etc/timezone
+doas nvim /etc/timezone
+peaclock
+man hwclock
+hwclock --hctosys
+doas hwclock --hctosys
+peaclock
+paru
+:q
+cd stuff/st/
+doas make install
+doas make clean install
+st
+config.h
+st -e clifm
+man st
+config.h
+st -e sh
+st -e /bin/sh
+st -e /sbin/sh
+st
+cd stuff/wa
+cd stuff/wallpapers/
+git clone https://github.com/BrodieRobertson/wallpapers
+paru wezterm
+wezterm
+paru termite
+termin
+terminator
+neofetch
+paru lxterm
+lxterminal
+paru -Rcns lxterminal
+nvim .config/sxhkd/sxhkdrc
+nvim .config/terminator/config
+man terminator
+man terminator_config
+paru
+nvim .config/discordcanary/settings.json
+paru virtualbox
+paru qt5ct
+qt5ct
+paru dracula
+paru dracula qt
+paru -Rcns qt5ct
+nvim .config/rofi/config.rasi
+cd .config/rofi
+mv 1 config.rasi.backup
+wget https://raw.githubusercontent.com/Murzchnvok/rofi-collection/master/dracula/dracula.rasi
+mv 2 config.rasi
+rofi
+wget https://raw.githubusercontent.com/Murzchnvok/rofi-collection/master/dracula/dracula.rasi
+mv 2 config.rasi
+ls
+ls -a
+ls -A
+cd ..
+cd rofi
+wget https://raw.githubusercontent.com/Murzchnvok/rofi-collection/master/dracula/dracula.rasi
+mv dracula.rasi config
+cp config config.rafi
+rm 1
+mv 1 config.rasi
+bash
+htop
+nvim
+neofetch
+paru go
+go version
+go mod init example.com/hello
+nvim helloworld.go
+code
+mkdir "go project"
+code 4
+paru prism
+paru aseprite
+bash
+cd..
+cd .
+cd ..
+mv 4 goporject
+code .
+paru wavebrowser
+paru -Rcns virtualboc
+paru -Rcns virtualbox
+paru
+paru crystal
+paru prism
+paru firefox
+paru qt creator
+lxapp
+lxappearance
+lxappearance
+paru qt5ct
+qt5ct
+paru dracula qt
+paru dracula qt5
+paru qt5 theme
+paru dracula
+qt5ct
+paru dracula
+qt5ct
+nvim /etc/environment
+doas nvim /etc/environment
+qt5ct
+reboot
+doas nvidia-settings
+nvim /etc/environment
+doas nvim /etc/environment
+pwd
+cd ..
+bat .config/bspwm/config.py
+nvim .config/bspwm/bspwmrc
+reboot
+btop
+htop
+# dd if=/dev/zero of=/swapfile bs=1G count=16 status=progress
+dd if=/dev/zero of=/swapfile bs=1G count=16 status=progress
+doas dd if=/dev/zero of=/swapfile bs=1G count=16 status=progress
+doas chmod 0600 /swapfile
+doas mkswap -U clear /swapfile
+swapon /swapfile
+doas swapon /swapfile
+doas nvim /etc/fstab
+htop
+xset m 0 0
+paru devour
+devour mpv
+lsblk
+mount /dev/sda2 /media/windows/K/
+doas mount /dev/sda2 /media/windows/K/
+lsblk
+systemctl daemon-reload
+cd /media/windows/K
+cd 19
+ls
+cd 6
+ls
+ls -l
+devour mpv 1
+devour mpv 7
+paru
+paru yt-dl
+paru ytdl
+paru yt dl
+paru youtube
+paru brave
+paru audacity
+lsblk
+cd /media/windows/2tb
+cd /media/2tb/
+doas mount /dev/sda2 /media/windows/K/
+ls -l
+ls
+time ls
+cd ..
+time cd torrents/ && ls
+pwd
+time cd torrents/ && ls
+ls
+torrents/
+ls 1
+ls -l 1
+pwd
+sl
+ls
+devour mpv 8
+lsblk
+mount --mkdir /dev/sdd1 /media/usb
+doas mount --mkdir /dev/sdd1 /media/usb
+cd /media/usb/
+ls
+paru sxiv
+sxiv sträss\ analys
+sxiv sträss\ analys.png
+sxiv ritning\ fixad.png
+volumeicon
+lxappearance
+htop
+bat /etc/timezone
+ls /
+ls /etc/
+ls /etc/ | cat
+ls /etc/ | bat
+ls /etc/ | bat | less
+ls /etc/ | bat
+paru arandr
+arandr
+cd /media/windows/K
+cd torrents/
+ls
+pcmanfm .
+devour pcmanfm .
+cd torrents/
+pwd
+cd /media/windows/K/torrents/
+ls
+ls | grep "silent"
+ls | grep "^[silent]"
+ls
+clifm .
+devour pcmanfm .
+sudo pacman -S noto-fonts-cjk noto-fonts-emoji noto-fonts
+550/12
+python3
+doas nvim /etc/environment
+paru alt-hack0
+paru hack zero
+neofetch
+man mount
+clifm
+x
+neofetch
+neofetch
+pwd
+yes gogo
+paru
+doas nvidia-settings
+arandr
+doas nvidia-settings
+htop
+peazip ~/Downloads/Simple\ Radar.zip
+sudo lshw -short -C memory
+paru lshw
+sudo lshw -short -C memory
+sudo lshw -C memory
+~
+code .config/
+code ~/.config/
+~/.config
+doas rm -r .git
+code .
+code ~/.config/
