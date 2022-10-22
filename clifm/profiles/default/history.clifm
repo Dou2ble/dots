@@ -705,3 +705,6 @@ code ~/.config/
 doas rm -r .git
 code .
 code ~/.config/
+git config --global user.name
+git config --global user.name "Dou2ble"
+git config --global user.email "ot002to@gmail.com"
