@@ -1,12 +1,12 @@
 # app launchers
 alt + space
-    rofi -show drun
+    rofi -show-icons -show drun
 
 alt + t
     terminator
 
 alt + b
-    firefox
+    brave
 
 alt + e
     pcmanfm

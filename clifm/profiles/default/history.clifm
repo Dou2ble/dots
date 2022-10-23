@@ -720,3 +720,109 @@ wget https://raw.githubusercontent.com/dracula/rofi/master/theme/config1.rasi
 mv 2 config.rasi
 bash .
 code .
+sudo lshw -C memory
+paru arc kde
+nvim ~/.config/discordcanary/settings.json
+man firefox
+man braver
+man brave
+reboot
+nvim ~/.config/sxhkd/sxhkdrc
+paru
+nvim ~/.config/bspwm/bspwmrc
+xsetroot
+nvim ~/.config/bspwm/bspwmrc
+killall mullvad-vpn
+killall mullvad
+killall mullvadvpn
+killall mullvad-vpn
+hto
+htop
+killall mullvad-gui
+nvim ~/.xinitrx
+nvim ~/.xinitrc
+paru gnu free fonts
+paru
+python3
+rofi -show drun
+rofi -show-icons -show drun
+sxhkd/
+rofi -drun-categories -show-icons -show drun
+rofi -drun-categories -show-icons
+rofi -drun-categories -show-icons -show drun
+rofi -font "Hack Regular" -show-icons -show drun
+rofi -font "Hack Regular", -show-icons -show drun
+rofi -show-icons -show drun -font "Hack"
+rofi -show-icons -show drun -font "Hack Medium"
+htop
+~/Downloads/
+cd ..
+ls -l
+pcmanfm .
+~/Downloads/
+devour pcmanfm .
+paru virtualbox
+ssh 10.0.2.255
+ssh 192.168.1.127
+ssh 192.168.1.255
+ssh 192.168.1.115
+ssh otto@192.168.1.115
+ssh root@192.168.1.128
+killall mullvad-gui
+betterdiscord-installer
+paru
+paru freshfetch
+freshfetch
+paru freshfetch
+freshfetch
+time freshfetch
+time neofetch
+time freshfetch
+paru -Rcns freshfetch-bin
+cd ..
+mkdir python
+mkdir pyfetch
+code 1
+cd ...
+cd stuff/wallpapers/
+devour sxiv 2
+cd ~
+git clone https://github.com/Dou2ble/fosslet
+code 1
+cd ~/python/fosslet/
+pip install -r requirements.txt
+paru pip
+paru pip python
+python3 main.py
+python3 main.py
+pip install -r requirements.txt
+python3 main.py
+mkdir lists
+nvim lists/lista
+python3 main.py
+pip install pyttsx3
+python3 tts.py
+python3 tts.py
+pip install gTTS
+pcmanfm .
+python3 tts.py
+python3 main.py
+paru fosslety
+paru fosslet
+cd ~/python/fosslet/
+python3 main.py
+clifm ~/
+doas nvim /etc/bash.bashrc
+wget https://i.pinimg.com/originals/5e/4c/65/5e4c655b9353e0be289273b3e7c4b227.jpg
+wget https://wallpapers.com/images/hd/beautiful-blue-sky-anime-scenery-22zk4gklgy4b4lp0-22zk4gklgy4b4lp0.jpg
+sxiv 2
+wget https://wallpapers.com/images/hd/beautiful-blue-sky-anime-scenery-22zk4gklgy4b4lp0-22zk4gklgy4b4lp0.jpg
+nitrogen
+wget https://wallpapers.com/images/hd/beautiful-blue-sky-anime-scenery-22zk4gklgy4b4lp0-22zk4gklgy4b4lp0.jpg
+pcmanfm .
+nitrogen
+python3 main.py
+nvim lists/lista
+code 2
+code 1
+code .config/

@@ -10,7 +10,13 @@ lxsession &
 nitrogen --restore &
 setxkbmap -layout se -variant nodeadkeys &
 picom --backend glx &
+killall flameshot &
 flameshot &
-~/.config/bspwm/polybar.sh
+killall mullvad-gui &
+mullvad-vpn &
+~/.config/bspwm/polybar.sh &
+xsetroot -cursor_name left_ptr &
+
+
 
 python3 ~/.config/bspwm/config.py
