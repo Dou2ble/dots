@@ -21,7 +21,7 @@ bspc_config = [
     "pointer_modifier              mod4",
     "pointer_action1               move",
     "pointer_action2               resize_side",
-    "pointer_action3               resize_corner"
+    "pointer_action3               resize_corner",
 ]
 
 bspc_monitor = [

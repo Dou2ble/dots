@@ -1,370 +1,3 @@
-edit
-paru kitty
-htop
-reboot
-code .config/polybar/config.ini
-code .config/awesome/rc.lua
-htop
-rofi
-rofi -show windo
-rofi -show window'
-rofi -show window
-code .config/polybar/config.ini
-polybar -h
-polybar -r
-polybar -s
-polybar -h
-cat .config/picom/picom.conf
-cat .config/picom/picom.conf | less
-killall polybar
-paru colorpicker
-colorpicker
-paru colorpicker
-paru -Rcns kcolorpicker
-paru colorpicker
-killall polybar
-colorpicker
-killall polybar
-code .config/awesome/rc.lua
-python3
-killall polybar
-polybar
-btop
-shell
-sh
-paru awesome
-paru mute
-pactl set-sink-volume @DEFUALT_SINK@ +5%
-pactl set +5%
-pactl -h
-htop
-paru polymc
-killall picom
-paru openjdk
-paru
-paru steam
-paru lib32-fontconfig
-killall steam
-neofetch
-/
-mkdir SteamLibrary
-chown otto 1
-doas chown otto 1
-ls -l
-/
-mkdir SteamLibrary
-/
-media/
-paru better discord
-paru peazip
-killall peazip
-killall pcmanfm
-killall csgo
-killall steam
-killall picom
-flameshot -h
-flameshot -h launcher
-flameshot -launcher
-flameshot --launcher
-neofethc
-neofetch
-aru
-paru
-picom
-neofetch
-nvim /etc/bash.bashrc
-doas nvim /etc/bash.bashrc
-bash
-sh
-bash
-source ~/pureline/pureline ~/.pureline.conf
-cd ..
-paru bspwm
-paru sxhkdrc
-nitrogen -h
-.config/
-mkdir bspwm
-mkdir sxhkd
-nvim bspwmrc
-chmod +x 1
-cd ..
-sxh
-sxhkd/
-nvim sxhkdrc
-chmod +x 1
-cd ..
-s
-sxhkd/
-code 1
-bspwm/
-code 1
-rofi --show run
-rofi --show drun
-rofi -show drun
-.config/
-bspwm/
-ls -l
-chmod +xxx 1
-ls -l
-reboot
-.config/
-sxhkd/
-code 1
-killall picom
-code 1
-reboot
-.config/
-code 1
-sxhkd/
-code sxhkd/
-cd ..
-qtile/
-setxkbmap -layout se -variant nodeadkeys
-sxhkd/
-code 1
-[200~pkill -USR1 -x sxhkd~
-pkill -USR1 -x sxhkd
-pkill -USR1 -x sxhkd
-bspc node -c
-killall sxhkdrc
-killall sxhkd
-sxhkd/
-sxhkd/
-sxhkd/
-[200~~/.config/bspwm/bspwmrc~
-~/.config/bspwm/bspwmrc
-sxhkd/
-sxhkd
-cd .config/bspwm/
-paru bat
-bat 1
-bspc config window_gap 20
-bspc config window_gap 10
-code .
-cd .config/bspwm/
-./1
-./bspwmrc
-cd .config/bspwm/
-./bspwmrc
-cd .config/bspwm/
-polybar
-nvim polybar.sh
-chmod +xxx 3
-ls -l
-./bspwmrc
-killall polybar
-.config/bspwm/
-./bspwmrc
-polybar -r
-kill
-pkill
-killall
-xkill
-.config/alacritty/
-code 1
-code 3
-cd ..
-bspwm
-rm 2
-code 1
-cd .config/bspwm/
-./bspwmrc
-bspc wm -r
-sxhkd
-code 1
-bspc wm -r
-killall sxhkd
-sxhkd
-reboot
-cd .config/bspwm/
-code 1
-man bspc
-cd .config/bspwm/
-code 1
-xrandr
-cd .config/polybar/
-code 1
-paru crystal
-crystal --focus 2
-paru crystal
-cd .config/
-pwd
-cd ..
-sxhkd
-code 1
-bspc dekstop -f 2
-bspc desktop -f 2
-bspc desktop -f 1
-bspc desktop -f "1"
-bash
-git clone https://git.suckless.org/dwm
-code 3
-doas rm -r 3
-volumeicon
-cd .config/
-polybar
-code 1
-volumeicon
-.config/bspwm/polybar.sh
-.config/bspwm/
-./polybar.sh
-polybar
-polybar first
-.config/bspwm/
-code 2
-polybar secons
-polybar secon
-polybar second
-neofethc
-neofetch
-cd ..
-picom/
-paru picom
-picom
-mv 1 picom.conf.laggy
-paru picom
-code .
-picom
-paru picom
-ls
-mv 1 picom.conf.laggy2
-picom
-paru compix
-paru compiz
-pacman -Qrdq
-pacman -Qtdq
-paru jdk
-pacman -Qtdq
-picom
-nvidia-settings -a 'AllowFlipping=0'
-picom
-nvidia-settings -a 'AllowFlipping=0'
-picom
-.config/
-picom
-nvim picom.conf
-picom
-mv picom.conf picom.conf.working
-mv picom.conf picom.conf.laggy picom.conf
-mv picom.conf.laggy picom.conf
-ls
-mv picom.conf.laggypicom.conf
-mv picom.conf.laggy picom.conf
-mv 1 picom.conf
-mv 1 picom.conasdasdasdaws
-mv 1 picom.conf
-picom
-reboot
-picom
-icom
-picom
-killall polybar
-picom
-nvim .config/picom/picom.conf
-picom -h
-picom --backend glx
-picom --backend xrender
-picom --backend xr_glx_hybrid
-picom --experimental-backends
-cd .config/picom/
-mv 1 picom.conf.laggy
-paru picom
-picom
-paru bspwm
-reboot
-paru bspwm
-bspc config border_radius 10
-picom
-.config/
-picom/
-nvim picom.conf
-picom
-ls
-picom.conf.laggy2
-nvim picom.conf
-picom
-nvim 1
-picom
-cd ..
-picom
-bspwm
-bash
-neofethc
-rm 4
-.config/
-doas nvim /etc/bash.bashrc
-doas rm -r 3
-bash
-cd ..
-rm -r 1
-cd ..
-rm -r 1
-mkdir wallpapers
-sl
-mv 1 "Cyberpunk Sunset.png"
-bash
-echo $PS1
-bash
-bash
-doas nvim /etc/bash.bashrc
-bash
-doas nvim /etc/bash.bashrc
-neofetch
-nvim .config/bspwm/bspwmrc
-nvim .config/sxhkd/sxhkdrc
-bspc window -t fullscreen
-bspc window -t floating
-nvim .config/sxhkd/sxhkdrc
-reboot
-nvim .config/sxhkd/sxhkdrc
-nvim .config/bspwm/bspwmrc
-nvim .config/polybar/config.ini
-neofetch
-btop
-paru better discord
-betterdiscord-installer
-killall picom
-betterdiscord-installer
-paru xnview
-paru xview
-paru nsxiv
-2¨
-nsxiv 1
-nsxiv 2
-nvim .config/picom/picom.conf
-killall picom
-picom
-btop
-htop
-btop
-htop
-nvim .config/picom/picom.conf
-rm -r .local/state/nvim/swap/
-killall picom
-picom
-picom --experimental-backends
-picom -h
-picom --experimental-backends --backend xr_glx_hybrid
-picom --experimental-backends --backend glx
-picom
-cd .config/picom/
-picom
-paru dunst
-dunst
-dunstify 1212
-dunstify 1212237238570345203845
-dunst
-.config/bspwm/
-killall dunst
-dunstify 1212
-dunst
-paru lxsession
-lxsession
-paru
-nvim .config/bspwm/bspwmrc
-cat .config/bspwm/bspwmrc
-nvim .config/bspwm/bspwmrc
-cat .config/bspwm/bspwmrc
 cat .config/sxhkd/sxhkdrc
 cat .config/picom/picom.conf
 cat .config/alacritty/alacritty.yml
@@ -826,3 +459,542 @@ nvim lists/lista
 code 2
 code 1
 code .config/
+lsblk
+doas mount /dev/sda2 /media/windows/K/
+/media/windows/K/
+torrents/
+ls -l
+paru
+lsblk
+doas nvidia-settings
+shutdown now
+paru picom
+killall picom
+picom
+paru picom
+pwd
+cd ..
+mkdir fosslet-gui
+go mod init github.com/dou2ble/fosslet-gui
+code .
+code 2
+paru gnome-keyring
+doas nvim /etc/bash.bashrc
+source /etc/bash.bashrc
+paru ioutil
+paru ventoy
+doas nvim /etc/os-release
+doas cp /etc/os-release /etc/os-release.backup
+doas nvim /etc/os-release
+neofetch
+doas nvim /etc/os-release
+neofetch
+doas nvim /etc/os-release
+doas cp /etc/os-release.backup /etc/os-release
+man neofetch
+neofetch --assci debian
+neofetch –Ascii_distro debian
+neofetch –-ascii_distro debian
+neofetch –-ascii-distro debian
+neofetch –ascii-distro debian
+man neofetch
+neofetch -ascii_distro debian
+neofetch --ascii_distro debian
+neofetch --ascii_distro arco
+neofetch --ascii_distro endeavout
+neofetch --ascii_distro endeavour
+neofetch --ascii_distro endeavouros
+neofetch --ascii_distro devuan
+neofetch --ascii_distro artix
+neofetch --ascii_distro seg
+neofetch --ascii_distro max
+neofetch --ascii_distro rhel
+neofetch --ascii_distro rocky
+neofetch --ascii_distro rockylinux
+neofetch --ascii_distro centos
+neofetch --ascii_distro cloveros
+neofetch --ascii_distro slackware
+neofetch --ascii_distro knoppix
+neofetch --ascii_distro knopix
+neofetch --ascii_distro ubuntu
+neofetch --ascii_distro xbunut
+neofetch --ascii_distro xbuntu
+neofetch --ascii_distro xubunut
+neofetch --ascii_distro xubuntu
+neofetch --ascii_distro ubuntumate
+neofetch --ascii_distro ubuntu-mate
+neofetch --ascii_distro lubuntu
+neofetch --ascii_distro parrot
+neofetch --ascii_distro kali
+neofetch --ascii_distro quebes
+neofetch --ascii_distro nixos
+lsblk
+paru
+paru bsp layout
+nvim .config/bspwm/config.py
+code .config/bspwm/config.py
+devour code .config/bspwm/config.py
+paru -Sc
+paru bsp layout
+paru -Sc
+paru -Scy
+paru bsp layout
+pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com
+doas pacman-key --recv-key FBA220DFC880C036 --keyserver keyserver.ubuntu.com
+doas pacman-key --lsign-key FBA220DFC880C036
+doas pacman -U 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-keyring.pkg.tar.zst' 'https://cdn-mirror.chaotic.cx/chaotic-aur/chaotic-mirrorlist.pkg.tar.zst'
+doas nvim /etc/pacman.conf
+paru -Syyy
+paru bsp layout
+paru -Qe
+pacman -Qm
+paru aseprite
+paru asoundconf
+paru better discord
+pacman -Qm
+paru clifm
+paru colorpicker
+paru devour
+paru dracula gtk theme
+paru httpdirfs
+paru mullvad
+paru peaclock
+peaclock
+paru peaclock
+doas peaclock
+paru crystal
+paru prims
+paru prism
+lsblk
+paru prism
+lsblk
+paru prism
+lsblk
+shutdown now
+paru picom
+killall picom
+paru cool retro term
+paru lunar client
+lsblk
+mount /dev/sda2 /media/windows/K/
+doas mount /dev/sda2 /media/windows/K/
+paru picom
+killall picom
+paru
+man bspwm
+bat /etc/services
+paru eew
+paru eww
+eww
+eww open
+paru -Rcns eww
+eww
+paru virtualbox
+code desktop\ notes
+bat .config/bspwm/bspwmrc.backup
+cat .config/bspwm/bspwmrc.backup
+paru
+lsblk
+doas mount /dev/sdc4 /media/windows/C
+doas mount -m  /dev/sdc4 /media/windows/C
+cd /media/windows/C
+cd Users/Otto/Desktop/
+neofetch
+doas nvidia-settings
+sudo devour nvidia-settings
+paru nvidia canvas
+sudo devour nvidia-settings
+sudo dmidecode --type 17
+sudo lshw -short -C memory
+code .
+ls /usr/local/go
+doas mkdir /usr/local/go
+/
+mnt/
+doas mkdir /mnt/sda1
+rm 1
+doas rm 1
+ls
+doas rm sda1/
+doas rm -r sda1/
+cd ...
+ls -l
+doas chmod +rwrw /mnt
+ls -l
+doas chmod +rwrwrwrwrwrw /mnt
+ls -l
+doas chmod 0600 /mnt
+ls -l
+doas chmod +rwx /mnt
+ls -l
+doas chmod +rwxd /mnt
+doas chmod 777 /mnt
+ls -l
+paru dougnut
+paru doughnut
+paru dough
+paru
+nvim .config/clrt
+neofetch
+mkdir badapple-neofetch
+cd 1
+code .
+python3 main.py
+ls ~/.config/neofetch/
+python3 main.py
+ls ~/.config/neofetch/
+python3 main.py
+[200~neofetch --pixterm /home/otto/badapple-neofetch/frame03267.png~
+neofetch --pixterm /home/otto/badapple-neofetch/frame03267.png
+neofetch --pix234234234term /home/otto/badapple-neofetch/frame03267.png
+paru jp2a
+neofetch --jp2a /home/otto/badapple-neofetch/frame03267.png
+man neofetch
+nvim ~/.config/neofetch/config.conf
+neofetch --jp2a /home/otto/badapple-neofetch/frame03267.png
+neofetch  /home/otto/badapple-neofetch/frame03267.png
+neofetch --jp2a /home/otto/badapple-neofetch/frame03267.png
+neofetch --pixterm /home/otto/badapple-neofetch/frame03267.png
+jp2a /home/otto/badapple-neofetch/frame03267.png
+neofetch --pixterm /home/otto/badapple-neofetch//frame03267.framespng
+neofetch --pixterm /home/otto/badapple-neofetch/frames/frame03267.png
+neofetch --jp2a /home/otto/badapple-neofetch/frames/frame03267.png
+nvim /home/otto/badapple-neofetch/frames/frame03267.png
+cat /home/otto/badapple-neofetch/frames/frame03267.png
+jp2a /home/otto/badapple-neofetch/frames/frame03267.png
+neofetch --jp2a /home/otto/badapple-neofetch/frames/frame03267.png
+man jp2a
+jp2a --colour truecolor /home/otto/badapple-neofetch/frames/frame03223.png
+jp2a  /home/otto/badapple-neofetch/frames/frame03223.png
+man jpa
+man jp2a
+ls
+cd frames/
+jp2a 999
+jp2a frame00994.png
+jp2a --size=10x10 frame00994.png
+jp2a --size=10 frame00994.png
+jp2a --size=100x100 frame00994.png
+jp2a --size=10x100 frame00994.png
+jp2a --size=100x10 frame00994.png
+jp2a --size=100x50 frame00994.png
+neofetch --jp2a /home/otto/badapple-neofetch/frames/frame03267.png
+neofetch --jp2a frame00001.png
+neofetch --jp2a --source frame00001.png
+neofetch --source frame00001.png
+jp2a --size=100x50 frame00994.png > !.txt
+cat \!.txt
+cat \!.txt
+neofetch --source \!.txt
+man jp2a
+neofetch
+nvim
+ls
+python3 ascii.py
+python3 main.py
+[200~neofetch --source /home/otto/badapple-neofetch/ascii/frame06084.png.txt~
+neofetch --source /home/otto/badapple-neofetch/ascii/frame06084.png.txt
+neofetch --source ascii/frame06084.png.txt
+neofetch /home/otto/badapple-neofetch/ascii/frame06084.png.txt
+cd ascii/
+neofetch frame00001.png.txt
+neofetch --ascii frame00001.png.txt
+neofetch --source frame00001.png.txt
+neofetch --ascii /home/otto/badapple-neofetch/ascii/frame06084.png.txt
+time ls
+time ls -la
+neofetch frame00001.png.txt
+lsb_release
+neofetch --source frame00001.png.txt
+neofetch --source frame00012.png.txt
+neofetch --source frame00099.png.txt
+pfetch
+uwufetch
+neofetch --source frame00001.png
+uwufetch
+paru
+matrix
+paru matrix
+btop
+nvim ~/.config/btop/btop.conf
+btop
+btop
+nvim .config/picom/picom.conf
+paru lutris
+paru spotify
+paru spotify tui
+spotify
+paru spotify tui
+paru -Rcns spotify-tui
+paru spotify tui
+spotify
+spotify-tui
+paru -Rcns spotify-tui-bin
+paru spotify
+ssh root@192.168.1.216
+ssh root@192.168.1.255
+ssh root@127.0.0.1
+ssh root@192.168.1.216
+ssh root@192.168.1.255
+ssh root@192.168.1.216
+man cp
+killall polybar
+polybar
+polybar first
+nvim .config/polybar/config.ini
+killall discord
+killall discord-canary
+htpå
+htop
+killall discordcanary
+killall DiscordCanary
+python3
+rm -r Desktop/
+nvim
+paru -Q
+paru -Q | bat
+paru -S dotnet-sdk dotnet-runtime
+dotnet -v
+dotnet --version
+dotnet -v
+mv 1 5
+mkdir c#
+mkdir first
+code .
+htop
+top
+btop
+paru 7zip
+paru 7zipper
+p7zip
+7za
+7zr
+7z
+paru 7zip
+p7zip
+cd /home/otto/.minecraft/resourcepacks/mypack/assets/minecraft/textures/items
+pinta diamond_sword.png
+paru pinta
+pinta diamond_sword.png
+paru
+paru mullvad
+paru -S mullvad-vpn
+killall DiscordCanary
+neofetch
+paru
+ping 1.1.1.1
+paru
+paru badlion
+Downloads/
+mv BadlionClient ~/.local/bin
+~/.local/bin
+./BadlionClient
+rm 1
+mv 1 ~/.local/bin/
+~/.local/bin/
+cd ...
+Downloads/
+mv 1 ~/.local/bin/
+cd ~/.local/bin/
+chmod a+x BadlionClient
+./BadlionClient
+doas nvim /etc/bash.bash
+doas nvim /etc/bash.bashrc
+.local/
+badlion
+echo $PATH
+.local/bin
+BadlionClient
+mv 3 badlionclient
+devour badlionm
+devour badlion
+devour badlionclient
+ls
+paru
+paru nemo
+nvim .config/sxhkd/sxhkdrc
+python3
+neofetch
+paru
+paru mcafee
+paru microsoft defender
+paru butterfly
+paru
+neofetch
+paru zsh
+zsh
+shut up
+badlionclient
+killall brave
+paru yast
+mkdir
+code .
+neofetch
+code .
+/bin/python /home/otto/python/pyfetch/main.py
+clear
+neofetch
+cat /etc/os-release
+time neofetch
+cat /etc/os-release
+paru
+lsblk
+doas mount /dev/sda2 /media/windows/K/
+lsblk
+/media/windows/K/torrents/
+ls 1
+ls -l 1
+killall qbittorrent
+nvim .config/bspwm/bspwmrc
+paru feather
+paru feather client
+killall DiscordCanary
+sh
+echo $SHELL
+paru
+watch neofetch
+watch cat 13
+paru peppermint
+paru peppermint terminal
+paru freezer
+paru -Rcns freezer-appimage
+paru freezer
+tree
+paru tree
+tree
+paru freyr
+man rm
+"[200~/home/otto/.minecraft/resourcepacks/packs/!       16§4x/§7fat cat §f[§b16§7x§f]~"
+cd "/home/otto/.minecraft/resourcepacks/packs/!       16§4x/§7fat cat §f[§b16§7x§f]"
+unzip 1
+cd "/home/otto/.minecraft/resourcepacks/packs/!       16§4x/§frose §8[§f16§bx§8]"
+unzip 1
+paru
+paru nemo-fileroller
+paru -
+paru -Qe | grep p7z
+paru -Rcns p7zip-gui
+paru sutils
+paru xtitle-git
+bat /etc/pacman.d/mirrorlist
+paru mate-tweak
+calc
+paru calc
+calc
+paru calc
+calc
+paru nmap
+nmap
+nmap -A
+sudo nmap -sP 192.168.1.0/24
+calc
+ssh otto@fedora
+paru
+doas nvim /etc/paru.conf
+paru
+doas nvim /etc/paru.conf
+paru
+paru iso flag png
+paru mintlocale
+paru gnome-terminal
+paru cinnamon-translations
+paru nemo-fileroller
+pacman -Qtdq
+sudo pacman -Rns $(pacman -Qtdq)
+paru jdk 17
+mkdir Archiso
+paru arch iso
+code .
+paru arch iso
+paru archiso
+paru -Rcns archiso-persistent-git
+paru archiso
+cp -r /usr/share/archiso/configs/releng/ .
+ls
+cd 1
+ls
+code .
+paru vi
+paru -S vi
+vi
+paru atom
+paru code
+shut up
+reboot now
+reboot
+calc
+nvim .config/bspwm/bspwmrc
+qbittorrent
+paru file zilla
+devour filezilla
+sftp otto@fedora
+sftp otto@fedora
+paru winscp
+paru CyberDuck
+paru cuteftp
+ssh otto@fedora
+cd .config/qBittorrent/
+ssh otto@fedora
+ping fedora
+ssh otto@fedora
+:q
+alias :wq="exit"
+:wq
+paru flashpoint
+paru -Rcns flashpoint-bin
+paru kiwi archive
+paru flashpoint
+paru wine mono
+paru
+shutdown now
+paru python is python3
+python
+:ew
+:wq
+paru
+uname -r
+cd ..
+cat 12
+doas cat 12
+cd /etc/
+cat passwd
+bat os-release
+bat os-release
+bat os-release -p
+pwd
+nvim os-release
+/etc
+cd ..
+..................................................................................................................................................................................................................................................................................................
+man archiso
+nvim build.sh
+nvim build.py
+mkdir output
+mkdir work
+python3 build.py
+doas python3 build.py
+paru picom
+killall picom
+cd .config/picom/
+rm 2 3
+mv 1 picom.conf.backup
+nvim picom.conf
+picom
+nvim picom.conf
+picom
+picom
+nvim picom.conf
+picom
+man picom
+picom --experimental-backends
+killall picom
+picom --experimental-backends
+code .
+picom
+picom --experimental-backends
+neofetch
+nvim .config/bspwm/bspwmrc
+cd .config
+code
+code .config
+.config

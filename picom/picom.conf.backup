@@ -1,0 +1,30 @@
+use-damage = true;
+corner-radius = 12;
+round-borders = 1;
+vsync = false;
+# inactive-opacity = 0.85
+
+
+# Blur from BrodieRobertson dotfiles
+opacity-rule = [
+    "90:class_g = 'URxvt'",
+    "90:class_g = 'Alacritty'",
+    "90:class_g = 'st-256color'",
+    "90:class_g = 'tabbed'",
+    "90:class_g = 'kitty'",
+    "90:class_g = 'Code'",
+    "90:class_g = 'Terminator'"
+];
+
+# Blur
+blur:
+{
+  method = "dual_kawase";
+  strength = 2;
+}
+
+wintypes:
+{
+  normal = { blur-background = true; };
+  splash = { blur-background = false; };
+};
