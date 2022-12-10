@@ -9,13 +9,15 @@ dunst &
 lxsession &
 nitrogen --restore &
 setxkbmap -layout se -variant nodeadkeys &
-picom &
+picom --experimental-backends --backend glx &
 killall flameshot &
 flameshot &
 killall mullvad-gui &
 mullvad-vpn &
 ~/.config/bspwm/polybar.sh &
 xsetroot -cursor_name left_ptr &
+wmname LG3D &
+bsp-layout set tall &
 
 
 

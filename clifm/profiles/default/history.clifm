@@ -1,56 +1,3 @@
-cat .config/sxhkd/sxhkdrc
-cat .config/picom/picom.conf
-cat .config/alacritty/alacritty.yml
-cat .config/rofi/
-cat .config/rofi/config.rasi
-cat .config/polybar/config.ini
-cat .config/polybar/config.ini
-cat .config/bspwm/polybar.sh
-cat .config/bspwm/polybar.sh
-paru mullvad
-paru bspswallow
-paru bspwm swallow
-.config/bspwm/
-xprop
-ls -l
-chmod +xxx 1
-ls -l
-paru mpv
-mpv
-mpv 3
-mpv 2
-bash
-rm -r 2
-.config/bspwm/
-rm 1
-paru -R openjdk-17
-paru open
-paru openjdk
-paru -Rcns jre17-openjdk
-paru -S jre openjdks
-paru -S jre openjdk
-paru jre openjdk
-paru qbittorrent
-paru gparted
-lxsession
-paru gparted
-gparted
-.con
-.config/bspwm/
-paru ntfs
-lsblk
-mount --mkdir /dev/sda2 /media/windows/K
-doas mount --mkdir /dev/sda2 /media/windows/K
-cd ..
-cd /
-ls -l
-chmod +rwrw /media
-doas chmod +rwrw /media
-ls-l
-ls -l
-cd media/
-ls -l
-mv 4 3
 paru wget
 wget https://github.com/dracula/qbittorrent/raw/master/qbittorrent.qbtheme
 cd ~/Downloads/
@@ -998,3 +945,58 @@ cd .config
 code
 code .config
 .config
+cd /etc/
+su
+peaclock
+paru peaclick
+paru peaclock
+bat .config/bspwm/bspwmrc
+man dunst
+dunst -print hello
+man dunst
+killall dunst
+dunst -print hello
+man dunst
+dunst --startup-notification hello
+dunst
+man dunst
+dunst
+notify-send "Title" "NOW"
+nvim .config/dunst/
+bat /etc/dunst/dunstrc
+nvim .config/picom/picom.conf
+killall picom
+man picom
+picom
+picom --experimental-backends --backend glx
+picom --backend glx
+picom --experimental-backends --backend glx
+picom --experimental-backends --backend xr_glx_hybrid
+picom --experimental-backends --backend xrender
+picom --experimental-backends --backend glx
+picom --experimental-backends
+nvim .config/picom/picom.conf
+picom
+picom --experimental-backends --backend glx
+nvim .config/bspwm/bspwmrc
+nvim
+st
+s
+xterm
+uxterm
+paru cpux
+paru cpu x
+uname -r
+man gcc
+lsblk
+watch lsblk
+doas nvim /etc/bash.bashrc
+doas nvim /etc/bash.bashrc
+man mv
+backup
+ssh debian@beaglebone
+source /etc/bash.bashrc
+ls
+:wq
+~/Downloads/
+mousepad

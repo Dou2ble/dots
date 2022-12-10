@@ -15,7 +15,6 @@ bspc_config = [
     "click_to_focus                true",
     "split_ratio                   0.5",
     "focus_follows_pointer         true",
-    "history_aware_focus           true",
     "remove_disabled_monitors      true",
     "merge_overlapping_monitors    true",
     "pointer_modifier              mod4",
