@@ -11,6 +11,7 @@ Plug 'mg979/vim-visual-multi' " multi cursor
 Plug 'tomasiser/vim-code-dark' " vscode theme
 Plug 'alvan/vim-closetag' " closes html tags
 Plug 'github/copilot.vim'
+Plug 'preservim/nerdcommenter' " comment stuff
 
 call plug#end()
 
